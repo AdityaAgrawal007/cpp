@@ -1,0 +1,15 @@
+other -
+
+1. a scope can be defined by a function, namespace, class, {}, if none of the above then by default it's in the global namespace
+2. containers in c++ - vector, map etc ..., container adapters are containers based on other existing containers ex: stack, queue, priority queue etc ..., unordered associative containers, associative containers, sequence containers
+
+keywords - 
+
+auto
+volatile
+
+side quests - 
+
+1. movt iterators, stream iterators, inserter iterator, iterator utility functions
+2. multithreading - future, async, <atomic>
+3. diffrence between inheriting stuff publicily, privatly, protected ...
