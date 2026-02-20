@@ -1,0 +1,18 @@
+# binaries
+*.out
+*.exe
+a.out
+
+# object files
+*.o
+*.obj
+
+# vim
+*.swp
+*.swo
+*.vim
+.nvm*
+.nvim_session.vim
+
+# build folders
+build/
